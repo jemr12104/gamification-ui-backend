@@ -1,0 +1,400 @@
+2025-02-18 13:23:33,777 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-18 13:23:33,777 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-18 13:23:33,782 - INFO -  * Restarting with stat
+2025-02-18 13:23:35,099 - WARNING -  * Debugger is active!
+2025-02-18 13:23:35,137 - INFO -  * Debugger PIN: 561-843-045
+2025-02-18 13:23:57,551 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-18 13:23:57,551 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-18 13:23:57,554 - INFO -  * Restarting with stat
+2025-02-18 13:23:58,743 - WARNING -  * Debugger is active!
+2025-02-18 13:23:58,751 - INFO -  * Debugger PIN: 561-843-045
+2025-02-18 13:25:12,274 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-18 13:25:12,275 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-18 13:25:12,278 - INFO -  * Restarting with stat
+2025-02-18 13:25:13,497 - WARNING -  * Debugger is active!
+2025-02-18 13:25:13,501 - INFO -  * Debugger PIN: 561-843-045
+2025-02-18 13:26:00,210 - INFO - API health check accessed
+2025-02-18 13:26:00,212 - INFO - 127.0.0.1 - - [18/Feb/2025 13:26:00] "GET / HTTP/1.1" 200 -
+2025-02-18 13:26:01,322 - INFO - API health check accessed
+2025-02-18 13:26:01,323 - INFO - 127.0.0.1 - - [18/Feb/2025 13:26:01] "GET / HTTP/1.1" 200 -
+2025-02-18 13:26:30,134 - INFO - API health check accessed
+2025-02-18 13:26:30,135 - INFO - 127.0.0.1 - - [18/Feb/2025 13:26:30] "GET / HTTP/1.1" 200 -
+2025-02-18 13:48:34,007 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-18 13:48:34,007 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-18 13:48:34,009 - INFO -  * Restarting with stat
+2025-02-18 13:48:34,841 - WARNING -  * Debugger is active!
+2025-02-18 13:48:34,846 - INFO -  * Debugger PIN: 561-843-045
+2025-02-18 13:48:45,349 - INFO - API health check accessed
+2025-02-18 13:48:45,350 - INFO - 127.0.0.1 - - [18/Feb/2025 13:48:45] "GET / HTTP/1.1" 200 -
+2025-02-18 13:48:46,463 - INFO - API health check accessed
+2025-02-18 13:48:46,464 - INFO - 127.0.0.1 - - [18/Feb/2025 13:48:46] "GET / HTTP/1.1" 200 -
+2025-02-18 13:48:47,028 - INFO - API health check accessed
+2025-02-18 13:48:47,028 - INFO - 127.0.0.1 - - [18/Feb/2025 13:48:47] "GET / HTTP/1.1" 200 -
+2025-02-18 13:48:47,200 - INFO - API health check accessed
+2025-02-18 13:48:47,200 - INFO - 127.0.0.1 - - [18/Feb/2025 13:48:47] "GET / HTTP/1.1" 200 -
+2025-02-18 13:48:47,363 - INFO - API health check accessed
+2025-02-18 13:48:47,364 - INFO - 127.0.0.1 - - [18/Feb/2025 13:48:47] "GET / HTTP/1.1" 200 -
+2025-02-18 13:48:47,530 - INFO - API health check accessed
+2025-02-18 13:48:47,530 - INFO - 127.0.0.1 - - [18/Feb/2025 13:48:47] "GET / HTTP/1.1" 200 -
+2025-02-18 13:48:47,689 - INFO - API health check accessed
+2025-02-18 13:48:47,690 - INFO - 127.0.0.1 - - [18/Feb/2025 13:48:47] "GET / HTTP/1.1" 200 -
+2025-02-18 13:50:55,815 - INFO -  * Detected change in 'C:\\Users\\jemr1\\Documents\\Jeff\\Practicas\\interview\\Backend-gm\\app.py', reloading
+2025-02-18 13:50:55,950 - INFO -  * Restarting with stat
+2025-02-18 13:50:56,832 - WARNING -  * Debugger is active!
+2025-02-18 13:50:56,836 - INFO -  * Debugger PIN: 561-843-045
+2025-02-18 13:51:14,968 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-18 13:51:14,968 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-18 13:51:14,971 - INFO -  * Restarting with stat
+2025-02-18 13:51:15,742 - WARNING -  * Debugger is active!
+2025-02-18 13:51:15,745 - INFO -  * Debugger PIN: 561-843-045
+2025-02-18 13:52:07,498 - INFO - API health check accessed
+2025-02-18 13:52:07,500 - INFO - 127.0.0.1 - - [18/Feb/2025 13:52:07] "GET / HTTP/1.1" 200 -
+2025-02-18 13:52:08,334 - INFO - API health check accessed
+2025-02-18 13:52:08,334 - INFO - 127.0.0.1 - - [18/Feb/2025 13:52:08] "GET / HTTP/1.1" 200 -
+2025-02-18 13:52:43,018 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-18 13:52:43,018 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-18 13:52:43,019 - INFO -  * Restarting with stat
+2025-02-18 13:52:43,978 - WARNING -  * Debugger is active!
+2025-02-18 13:52:43,981 - INFO -  * Debugger PIN: 561-843-045
+2025-02-18 13:53:48,534 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-18 13:53:48,534 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-18 13:53:48,537 - INFO -  * Restarting with stat
+2025-02-18 13:53:49,298 - WARNING -  * Debugger is active!
+2025-02-18 13:53:49,302 - INFO -  * Debugger PIN: 561-843-045
+2025-02-18 13:54:54,377 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-18 13:54:54,378 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-18 13:54:54,379 - INFO -  * Restarting with stat
+2025-02-18 13:54:55,174 - WARNING -  * Debugger is active!
+2025-02-18 13:54:55,177 - INFO -  * Debugger PIN: 561-843-045
+2025-02-18 13:55:08,348 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-18 13:55:08,348 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-18 13:55:08,349 - INFO -  * Restarting with stat
+2025-02-18 13:55:09,166 - WARNING -  * Debugger is active!
+2025-02-18 13:55:09,169 - INFO -  * Debugger PIN: 561-843-045
+2025-02-18 13:55:29,652 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-18 13:55:29,652 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-18 13:55:29,654 - INFO -  * Restarting with stat
+2025-02-18 13:55:30,554 - WARNING -  * Debugger is active!
+2025-02-18 13:55:30,558 - INFO -  * Debugger PIN: 561-843-045
+2025-02-18 13:55:47,697 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-18 13:55:47,697 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-18 13:55:47,699 - INFO -  * Restarting with stat
+2025-02-18 13:55:48,472 - WARNING -  * Debugger is active!
+2025-02-18 13:55:48,475 - INFO -  * Debugger PIN: 561-843-045
+2025-02-18 14:05:28,203 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-18 14:05:28,203 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-18 14:05:28,206 - INFO -  * Restarting with stat
+2025-02-18 14:05:28,985 - WARNING -  * Debugger is active!
+2025-02-18 14:05:28,988 - INFO -  * Debugger PIN: 561-843-045
+2025-02-18 14:08:15,305 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-18 14:08:15,305 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-18 14:08:15,308 - INFO -  * Restarting with stat
+2025-02-18 14:08:16,096 - WARNING -  * Debugger is active!
+2025-02-18 14:08:16,098 - INFO -  * Debugger PIN: 561-843-045
+2025-02-18 14:09:22,891 - INFO -  * Detected change in 'C:\\Users\\jemr1\\Documents\\Jeff\\Practicas\\interview\\Backend-gm\\app.py', reloading
+2025-02-18 14:09:23,027 - INFO -  * Restarting with stat
+2025-02-18 14:09:24,009 - WARNING -  * Debugger is active!
+2025-02-18 14:09:24,011 - INFO -  * Debugger PIN: 561-843-045
+2025-02-18 14:09:58,447 - INFO -  * Detected change in 'C:\\Users\\jemr1\\Documents\\Jeff\\Practicas\\interview\\Backend-gm\\app.py', reloading
+2025-02-18 14:09:58,560 - INFO -  * Restarting with stat
+2025-02-18 14:09:59,361 - WARNING -  * Debugger is active!
+2025-02-18 14:09:59,364 - INFO -  * Debugger PIN: 561-843-045
+2025-02-18 14:10:06,244 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-18 14:10:06,244 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-18 14:10:22,600 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-18 14:10:22,600 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-18 14:10:39,161 - INFO - API health check accessed
+2025-02-18 14:10:39,163 - INFO - 127.0.0.1 - - [18/Feb/2025 14:10:39] "GET / HTTP/1.1" 200 -
+2025-02-18 14:12:30,837 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-18 14:12:30,838 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-18 14:12:30,842 - INFO -  * Restarting with stat
+2025-02-18 14:12:31,958 - WARNING -  * Debugger is active!
+2025-02-18 14:12:31,963 - INFO -  * Debugger PIN: 561-843-045
+2025-02-18 14:12:36,049 - WARNING -  * Debugger is active!
+2025-02-18 14:12:36,049 - INFO -  * Debugger PIN: 561-843-045
+2025-02-18 14:12:44,092 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-18 14:12:44,092 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-18 14:18:02,658 - INFO - 127.0.0.1 - - [18/Feb/2025 14:18:02] "GET /users HTTP/1.1" 200 -
+2025-02-18 14:18:02,668 - INFO - 127.0.0.1 - - [18/Feb/2025 14:18:02] "GET /users HTTP/1.1" 200 -
+2025-02-18 14:18:29,518 - INFO - 127.0.0.1 - - [18/Feb/2025 14:18:29] "GET /users HTTP/1.1" 200 -
+2025-02-18 14:18:29,533 - INFO - 127.0.0.1 - - [18/Feb/2025 14:18:29] "GET /users HTTP/1.1" 200 -
+2025-02-18 14:23:46,655 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-18 14:23:46,655 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-18 14:24:06,962 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-18 14:24:06,963 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-18 14:24:06,978 - INFO -  * Restarting with stat
+2025-02-18 14:24:07,103 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-18 14:24:07,103 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-18 14:24:07,105 - INFO -  * Restarting with stat
+2025-02-18 14:24:07,919 - WARNING -  * Debugger is active!
+2025-02-18 14:24:07,926 - INFO -  * Debugger PIN: 561-843-045
+2025-02-18 14:24:08,007 - WARNING -  * Debugger is active!
+2025-02-18 14:24:08,009 - INFO -  * Debugger PIN: 561-843-045
+2025-02-18 14:24:09,556 - WARNING -  * Debugger is active!
+2025-02-18 14:24:09,556 - INFO -  * Debugger PIN: 561-843-045
+2025-02-18 14:24:09,975 - WARNING -  * Debugger is active!
+2025-02-18 14:24:09,975 - INFO -  * Debugger PIN: 561-843-045
+2025-02-18 14:26:26,685 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-18 14:26:26,685 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-18 14:26:31,296 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-18 14:26:31,296 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-18 14:26:31,298 - INFO -  * Restarting with stat
+2025-02-18 14:26:32,110 - WARNING -  * Debugger is active!
+2025-02-18 14:26:32,113 - INFO -  * Debugger PIN: 561-843-045
+2025-02-18 14:26:32,627 - WARNING -  * Debugger is active!
+2025-02-18 14:26:32,627 - INFO -  * Debugger PIN: 561-843-045
+2025-02-18 14:27:14,802 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-18 14:27:14,804 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-18 14:28:05,406 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-18 14:28:05,407 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-18 14:28:05,410 - INFO -  * Restarting with stat
+2025-02-18 14:28:06,226 - WARNING -  * Debugger is active!
+2025-02-18 14:28:06,229 - INFO -  * Debugger PIN: 561-843-045
+2025-02-18 14:28:07,769 - WARNING -  * Debugger is active!
+2025-02-18 14:28:07,769 - INFO -  * Debugger PIN: 561-843-045
+2025-02-18 14:28:41,005 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-18 14:28:41,005 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-18 14:30:21,125 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-18 14:30:21,125 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-18 14:32:14,191 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-18 14:32:14,191 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-18 14:32:26,821 - INFO - API health check accessed
+2025-02-18 14:32:26,821 - INFO - 127.0.0.1 - - [18/Feb/2025 14:32:26] "GET / HTTP/1.1" 200 -
+2025-02-18 14:37:30,235 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-18 14:37:30,235 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-18 14:37:35,918 - INFO - API health check accessed
+2025-02-18 14:37:35,919 - INFO - 127.0.0.1 - - [18/Feb/2025 14:37:35] "GET / HTTP/1.1" 200 -
+2025-02-18 14:37:41,729 - INFO - New user created: John Doe
+2025-02-18 14:37:41,734 - INFO - 127.0.0.1 - - [18/Feb/2025 14:37:41] "[35m[1mPOST /users HTTP/1.1[0m" 201 -
+2025-02-18 14:40:35,004 - INFO - 127.0.0.1 - - [18/Feb/2025 14:40:35] "GET /users HTTP/1.1" 200 -
+2025-02-18 14:43:25,207 - INFO - API health check accessed
+2025-02-18 14:43:25,208 - INFO - 127.0.0.1 - - [18/Feb/2025 14:43:25] "GET / HTTP/1.1" 200 -
+2025-02-18 14:43:54,187 - INFO - 127.0.0.1 - - [18/Feb/2025 14:43:54] "GET /users HTTP/1.1" 200 -
+2025-02-18 14:43:54,193 - INFO - 127.0.0.1 - - [18/Feb/2025 14:43:54] "GET /users HTTP/1.1" 200 -
+2025-02-18 14:45:05,599 - INFO - New user created: Jane Doe
+2025-02-18 14:45:05,604 - INFO - 127.0.0.1 - - [18/Feb/2025 14:45:05] "[35m[1mPOST /users HTTP/1.1[0m" 201 -
+2025-02-18 14:45:14,114 - INFO - 127.0.0.1 - - [18/Feb/2025 14:45:14] "GET /users HTTP/1.1" 200 -
+2025-02-18 14:45:14,122 - INFO - 127.0.0.1 - - [18/Feb/2025 14:45:14] "GET /users HTTP/1.1" 200 -
+2025-02-18 14:45:15,250 - INFO - 127.0.0.1 - - [18/Feb/2025 14:45:15] "GET /users HTTP/1.1" 200 -
+2025-02-18 14:45:15,257 - INFO - 127.0.0.1 - - [18/Feb/2025 14:45:15] "GET /users HTTP/1.1" 200 -
+2025-02-18 15:10:26,872 - INFO - New user created: Jane Doe
+2025-02-18 15:10:26,881 - INFO - 127.0.0.1 - - [18/Feb/2025 15:10:26] "[35m[1mPOST /users HTTP/1.1[0m" 201 -
+2025-02-18 15:10:43,610 - INFO - 127.0.0.1 - - [18/Feb/2025 15:10:43] "GET /users HTTP/1.1" 200 -
+2025-02-18 15:10:43,677 - INFO - 127.0.0.1 - - [18/Feb/2025 15:10:43] "GET /users HTTP/1.1" 200 -
+2025-02-18 15:10:44,364 - INFO - 127.0.0.1 - - [18/Feb/2025 15:10:44] "GET /users HTTP/1.1" 200 -
+2025-02-18 15:10:44,372 - INFO - 127.0.0.1 - - [18/Feb/2025 15:10:44] "GET /users HTTP/1.1" 200 -
+2025-02-18 15:10:45,032 - INFO - 127.0.0.1 - - [18/Feb/2025 15:10:45] "GET /users HTTP/1.1" 200 -
+2025-02-18 15:10:45,039 - INFO - 127.0.0.1 - - [18/Feb/2025 15:10:45] "GET /users HTTP/1.1" 200 -
+2025-02-18 15:12:56,364 - INFO - New user created: Jefferson Mendoza
+2025-02-18 15:12:56,367 - INFO - 127.0.0.1 - - [18/Feb/2025 15:12:56] "[35m[1mPOST /users HTTP/1.1[0m" 201 -
+2025-02-18 15:13:39,906 - INFO - 127.0.0.1 - - [18/Feb/2025 15:13:39] "GET /users HTTP/1.1" 200 -
+2025-02-18 15:13:39,919 - INFO - 127.0.0.1 - - [18/Feb/2025 15:13:39] "GET /users HTTP/1.1" 200 -
+2025-02-18 15:14:14,629 - INFO - 127.0.0.1 - - [18/Feb/2025 15:14:14] "GET /users HTTP/1.1" 200 -
+2025-02-18 15:15:50,556 - INFO - 127.0.0.1 - - [18/Feb/2025 15:15:50] "GET /users HTTP/1.1" 200 -
+2025-02-18 15:15:50,563 - INFO - 127.0.0.1 - - [18/Feb/2025 15:15:50] "GET /users HTTP/1.1" 200 -
+2025-02-18 15:15:52,927 - INFO - 127.0.0.1 - - [18/Feb/2025 15:15:52] "GET /users HTTP/1.1" 200 -
+2025-02-18 15:15:52,931 - INFO - 127.0.0.1 - - [18/Feb/2025 15:15:52] "GET /users HTTP/1.1" 200 -
+2025-02-18 15:16:51,820 - INFO - 127.0.0.1 - - [18/Feb/2025 15:16:51] "GET /users HTTP/1.1" 200 -
+2025-02-18 15:16:51,827 - INFO - 127.0.0.1 - - [18/Feb/2025 15:16:51] "GET /users HTTP/1.1" 200 -
+2025-02-18 15:17:36,148 - INFO - New user created: Jane Doe
+2025-02-18 15:17:36,151 - INFO - 127.0.0.1 - - [18/Feb/2025 15:17:36] "[35m[1mPOST /users HTTP/1.1[0m" 201 -
+2025-02-18 15:17:39,623 - INFO - 127.0.0.1 - - [18/Feb/2025 15:17:39] "GET /users HTTP/1.1" 200 -
+2025-02-18 15:17:39,628 - INFO - 127.0.0.1 - - [18/Feb/2025 15:17:39] "GET /users HTTP/1.1" 200 -
+2025-02-18 15:17:40,340 - INFO - 127.0.0.1 - - [18/Feb/2025 15:17:40] "GET /users HTTP/1.1" 200 -
+2025-02-18 15:17:40,346 - INFO - 127.0.0.1 - - [18/Feb/2025 15:17:40] "GET /users HTTP/1.1" 200 -
+2025-02-18 15:30:26,690 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-18 15:30:26,691 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-18 15:31:45,839 - INFO - 127.0.0.1 - - [18/Feb/2025 15:31:45] "GET /users HTTP/1.1" 200 -
+2025-02-18 15:32:03,350 - INFO - New user created: John Doe
+2025-02-18 15:32:03,365 - INFO - 127.0.0.1 - - [18/Feb/2025 15:32:03] "[35m[1mPOST /users HTTP/1.1[0m" 201 -
+2025-02-18 15:33:00,965 - INFO - 127.0.0.1 - - [18/Feb/2025 15:33:00] "GET /users HTTP/1.1" 200 -
+2025-02-18 15:34:12,337 - INFO - 127.0.0.1 - - [18/Feb/2025 15:34:12] "GET /users HTTP/1.1" 200 -
+2025-02-18 15:34:12,347 - INFO - 127.0.0.1 - - [18/Feb/2025 15:34:12] "GET /users HTTP/1.1" 200 -
+2025-02-18 15:36:01,766 - INFO - 127.0.0.1 - - [18/Feb/2025 15:36:01] "GET /users HTTP/1.1" 200 -
+2025-02-18 15:38:04,189 - INFO - 127.0.0.1 - - [18/Feb/2025 15:38:04] "GET /users HTTP/1.1" 200 -
+2025-02-18 15:38:04,212 - INFO - 127.0.0.1 - - [18/Feb/2025 15:38:04] "GET /users HTTP/1.1" 200 -
+2025-02-18 15:40:34,578 - INFO - 127.0.0.1 - - [18/Feb/2025 15:40:34] "GET /users HTTP/1.1" 200 -
+2025-02-18 15:40:34,613 - INFO - 127.0.0.1 - - [18/Feb/2025 15:40:34] "GET /users HTTP/1.1" 200 -
+2025-02-18 15:40:35,993 - INFO - 127.0.0.1 - - [18/Feb/2025 15:40:35] "GET /users HTTP/1.1" 200 -
+2025-02-18 15:40:36,014 - INFO - 127.0.0.1 - - [18/Feb/2025 15:40:36] "GET /users HTTP/1.1" 200 -
+2025-02-18 15:40:45,791 - INFO - 127.0.0.1 - - [18/Feb/2025 15:40:45] "OPTIONS /users HTTP/1.1" 200 -
+2025-02-18 15:40:45,871 - INFO - New user created: Jefferson Mendoza
+2025-02-18 15:40:45,896 - INFO - 127.0.0.1 - - [18/Feb/2025 15:40:45] "[35m[1mPOST /users HTTP/1.1[0m" 201 -
+2025-02-18 15:42:38,477 - INFO - 127.0.0.1 - - [18/Feb/2025 15:42:38] "OPTIONS /users HTTP/1.1" 200 -
+2025-02-18 15:42:38,486 - INFO - New user created: Eduardo Rios
+2025-02-18 15:42:38,490 - INFO - 127.0.0.1 - - [18/Feb/2025 15:42:38] "[35m[1mPOST /users HTTP/1.1[0m" 201 -
+2025-02-18 15:48:48,033 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-18 15:48:48,033 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-18 15:48:55,864 - INFO - 127.0.0.1 - - [18/Feb/2025 15:48:55] "GET /users HTTP/1.1" 200 -
+2025-02-18 15:48:55,870 - INFO - 127.0.0.1 - - [18/Feb/2025 15:48:55] "GET /users HTTP/1.1" 200 -
+2025-02-18 15:48:59,115 - INFO - API health check accessed
+2025-02-18 15:48:59,116 - INFO - 127.0.0.1 - - [18/Feb/2025 15:48:59] "GET / HTTP/1.1" 200 -
+2025-02-18 15:50:00,617 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-18 15:50:00,618 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-18 15:50:31,129 - INFO - 127.0.0.1 - - [18/Feb/2025 15:50:31] "GET /users HTTP/1.1" 200 -
+2025-02-18 15:50:31,139 - INFO - 127.0.0.1 - - [18/Feb/2025 15:50:31] "GET /users HTTP/1.1" 200 -
+2025-02-18 15:50:32,004 - INFO - 127.0.0.1 - - [18/Feb/2025 15:50:32] "GET /users HTTP/1.1" 200 -
+2025-02-18 15:50:32,011 - INFO - 127.0.0.1 - - [18/Feb/2025 15:50:32] "GET /users HTTP/1.1" 200 -
+2025-02-18 15:50:36,286 - INFO - 127.0.0.1 - - [18/Feb/2025 15:50:36] "GET /users HTTP/1.1" 200 -
+2025-02-18 15:50:36,301 - INFO - 127.0.0.1 - - [18/Feb/2025 15:50:36] "GET /users HTTP/1.1" 200 -
+2025-02-18 15:50:55,673 - INFO - 127.0.0.1 - - [18/Feb/2025 15:50:55] "GET /users HTTP/1.1" 200 -
+2025-02-18 15:50:55,681 - INFO - 127.0.0.1 - - [18/Feb/2025 15:50:55] "GET /users HTTP/1.1" 200 -
+2025-02-18 15:58:55,240 - INFO - 127.0.0.1 - - [18/Feb/2025 15:58:55] "GET /users HTTP/1.1" 200 -
+2025-02-18 15:58:55,253 - INFO - 127.0.0.1 - - [18/Feb/2025 15:58:55] "GET /users HTTP/1.1" 200 -
+2025-02-18 15:59:09,193 - INFO - 127.0.0.1 - - [18/Feb/2025 15:59:09] "GET /users HTTP/1.1" 200 -
+2025-02-18 15:59:09,214 - INFO - 127.0.0.1 - - [18/Feb/2025 15:59:09] "GET /users HTTP/1.1" 200 -
+2025-02-18 15:59:13,136 - INFO - 127.0.0.1 - - [18/Feb/2025 15:59:13] "OPTIONS /users/3/xp HTTP/1.1" 200 -
+2025-02-18 15:59:13,303 - INFO - XP updated for user Eduardo Rios: New XP 20, Level 1
+2025-02-18 15:59:13,305 - INFO - 127.0.0.1 - - [18/Feb/2025 15:59:13] "PUT /users/3/xp HTTP/1.1" 200 -
+2025-02-18 15:59:14,070 - INFO - XP updated for user Eduardo Rios: New XP 40, Level 1
+2025-02-18 15:59:14,071 - INFO - 127.0.0.1 - - [18/Feb/2025 15:59:14] "PUT /users/3/xp HTTP/1.1" 200 -
+2025-02-18 15:59:14,099 - INFO - XP updated for user Eduardo Rios: New XP 60, Level 1
+2025-02-18 15:59:14,101 - INFO - 127.0.0.1 - - [18/Feb/2025 15:59:14] "PUT /users/3/xp HTTP/1.1" 200 -
+2025-02-18 15:59:15,753 - INFO - XP updated for user Eduardo Rios: New XP 80, Level 1
+2025-02-18 15:59:15,754 - INFO - 127.0.0.1 - - [18/Feb/2025 15:59:15] "PUT /users/3/xp HTTP/1.1" 200 -
+2025-02-18 15:59:16,519 - INFO - XP updated for user Eduardo Rios: New XP 0, Level 2
+2025-02-18 15:59:16,521 - INFO - 127.0.0.1 - - [18/Feb/2025 15:59:16] "PUT /users/3/xp HTTP/1.1" 200 -
+2025-02-18 15:59:18,882 - INFO - 127.0.0.1 - - [18/Feb/2025 15:59:18] "OPTIONS /users/2/xp HTTP/1.1" 200 -
+2025-02-18 15:59:18,893 - INFO - XP updated for user Jefferson Mendoza: New XP 20, Level 1
+2025-02-18 15:59:18,894 - INFO - 127.0.0.1 - - [18/Feb/2025 15:59:18] "PUT /users/2/xp HTTP/1.1" 200 -
+2025-02-18 15:59:20,187 - INFO - 127.0.0.1 - - [18/Feb/2025 15:59:20] "OPTIONS /users/1/xp HTTP/1.1" 200 -
+2025-02-18 15:59:20,200 - INFO - XP updated for user John Doe: New XP 20, Level 1
+2025-02-18 15:59:20,202 - INFO - 127.0.0.1 - - [18/Feb/2025 15:59:20] "PUT /users/1/xp HTTP/1.1" 200 -
+2025-02-18 15:59:52,781 - INFO - 127.0.0.1 - - [18/Feb/2025 15:59:52] "OPTIONS /users/3/xp HTTP/1.1" 200 -
+2025-02-18 15:59:52,793 - INFO - XP updated for user Eduardo Rios: New XP 20, Level 2
+2025-02-18 15:59:52,794 - INFO - 127.0.0.1 - - [18/Feb/2025 15:59:52] "PUT /users/3/xp HTTP/1.1" 200 -
+2025-02-18 15:59:53,769 - INFO - 127.0.0.1 - - [18/Feb/2025 15:59:53] "OPTIONS /users/2/xp HTTP/1.1" 200 -
+2025-02-18 15:59:53,782 - INFO - XP updated for user Jefferson Mendoza: New XP 40, Level 1
+2025-02-18 15:59:53,783 - INFO - 127.0.0.1 - - [18/Feb/2025 15:59:53] "PUT /users/2/xp HTTP/1.1" 200 -
+2025-02-18 15:59:54,391 - INFO - 127.0.0.1 - - [18/Feb/2025 15:59:54] "OPTIONS /users/1/xp HTTP/1.1" 200 -
+2025-02-18 15:59:54,407 - INFO - XP updated for user John Doe: New XP 40, Level 1
+2025-02-18 15:59:54,409 - INFO - 127.0.0.1 - - [18/Feb/2025 15:59:54] "PUT /users/1/xp HTTP/1.1" 200 -
+2025-02-18 16:12:37,555 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-18 16:12:37,556 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-18 16:12:55,111 - INFO - 127.0.0.1 - - [18/Feb/2025 16:12:55] "GET /users HTTP/1.1" 200 -
+2025-02-18 16:13:52,222 - INFO - 127.0.0.1 - - [18/Feb/2025 16:13:52] "GET /users HTTP/1.1" 200 -
+2025-02-18 16:13:52,237 - INFO - 127.0.0.1 - - [18/Feb/2025 16:13:52] "GET /users HTTP/1.1" 200 -
+2025-02-18 16:13:54,640 - INFO - 127.0.0.1 - - [18/Feb/2025 16:13:54] "GET /users HTTP/1.1" 200 -
+2025-02-18 16:13:54,653 - INFO - 127.0.0.1 - - [18/Feb/2025 16:13:54] "GET /users HTTP/1.1" 200 -
+2025-02-18 16:13:57,092 - INFO - 127.0.0.1 - - [18/Feb/2025 16:13:57] "GET /users HTTP/1.1" 200 -
+2025-02-18 16:13:57,099 - INFO - 127.0.0.1 - - [18/Feb/2025 16:13:57] "GET /users HTTP/1.1" 200 -
+2025-02-18 16:16:13,310 - INFO - 127.0.0.1 - - [18/Feb/2025 16:16:13] "GET /users HTTP/1.1" 200 -
+2025-02-18 16:16:13,330 - INFO - 127.0.0.1 - - [18/Feb/2025 16:16:13] "GET /users HTTP/1.1" 200 -
+2025-02-18 16:18:33,057 - INFO - Badge 'Top Performer' added to user John Doe
+2025-02-18 16:18:33,058 - INFO - 127.0.0.1 - - [18/Feb/2025 16:18:33] "POST /users/1/add_badge HTTP/1.1" 200 -
+2025-02-18 16:18:51,911 - INFO - 127.0.0.1 - - [18/Feb/2025 16:18:51] "GET /users HTTP/1.1" 200 -
+2025-02-18 16:18:51,929 - INFO - 127.0.0.1 - - [18/Feb/2025 16:18:51] "GET /users HTTP/1.1" 200 -
+2025-02-18 16:23:20,228 - INFO - 127.0.0.1 - - [18/Feb/2025 16:23:20] "GET /users HTTP/1.1" 200 -
+2025-02-18 16:23:20,245 - INFO - 127.0.0.1 - - [18/Feb/2025 16:23:20] "GET /users HTTP/1.1" 200 -
+2025-02-18 16:23:42,968 - INFO - 127.0.0.1 - - [18/Feb/2025 16:23:42] "GET /users HTTP/1.1" 200 -
+2025-02-18 16:23:42,986 - INFO - 127.0.0.1 - - [18/Feb/2025 16:23:42] "GET /users HTTP/1.1" 200 -
+2025-02-18 16:25:52,700 - INFO - 127.0.0.1 - - [18/Feb/2025 16:25:52] "GET /users HTTP/1.1" 200 -
+2025-02-18 16:25:52,708 - INFO - 127.0.0.1 - - [18/Feb/2025 16:25:52] "GET /users HTTP/1.1" 200 -
+2025-02-18 16:26:38,739 - INFO - 127.0.0.1 - - [18/Feb/2025 16:26:38] "OPTIONS /users/2/add_badge HTTP/1.1" 200 -
+2025-02-18 16:26:38,828 - INFO - Badge 'Excelent' added to user Jefferson Mendoza
+2025-02-18 16:26:38,829 - INFO - 127.0.0.1 - - [18/Feb/2025 16:26:38] "POST /users/2/add_badge HTTP/1.1" 200 -
+2025-02-18 16:29:43,608 - INFO - 127.0.0.1 - - [18/Feb/2025 16:29:43] "GET /users HTTP/1.1" 200 -
+2025-02-18 16:29:43,618 - INFO - 127.0.0.1 - - [18/Feb/2025 16:29:43] "GET /users HTTP/1.1" 200 -
+2025-02-18 16:29:45,008 - INFO - 127.0.0.1 - - [18/Feb/2025 16:29:45] "GET /users HTTP/1.1" 200 -
+2025-02-18 16:29:45,016 - INFO - 127.0.0.1 - - [18/Feb/2025 16:29:45] "GET /users HTTP/1.1" 200 -
+2025-02-18 16:29:50,391 - INFO - 127.0.0.1 - - [18/Feb/2025 16:29:50] "GET /users HTTP/1.1" 200 -
+2025-02-18 16:29:50,401 - INFO - 127.0.0.1 - - [18/Feb/2025 16:29:50] "GET /users HTTP/1.1" 200 -
+2025-02-18 16:29:57,342 - INFO - 127.0.0.1 - - [18/Feb/2025 16:29:57] "GET /users HTTP/1.1" 200 -
+2025-02-18 16:29:57,359 - INFO - 127.0.0.1 - - [18/Feb/2025 16:29:57] "GET /users HTTP/1.1" 200 -
+2025-02-18 16:29:57,706 - INFO - 127.0.0.1 - - [18/Feb/2025 16:29:57] "GET /users HTTP/1.1" 200 -
+2025-02-18 16:29:57,717 - INFO - 127.0.0.1 - - [18/Feb/2025 16:29:57] "GET /users HTTP/1.1" 200 -
+2025-02-18 16:38:12,913 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-18 16:38:12,913 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-18 16:45:34,720 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-18 16:45:34,722 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-18 16:45:56,446 - INFO - API health check accessed
+2025-02-18 16:45:56,450 - INFO - 127.0.0.1 - - [18/Feb/2025 16:45:56] "GET / HTTP/1.1" 200 -
+2025-02-18 16:47:18,450 - INFO - API health check accessed
+2025-02-18 16:47:18,451 - INFO - 127.0.0.1 - - [18/Feb/2025 16:47:18] "GET / HTTP/1.1" 200 -
+2025-02-18 16:47:38,029 - INFO - 127.0.0.1 - - [18/Feb/2025 16:47:38] "GET /users HTTP/1.1" 200 -
+2025-02-18 16:47:38,044 - INFO - 127.0.0.1 - - [18/Feb/2025 16:47:38] "GET /users HTTP/1.1" 200 -
+2025-02-18 16:47:38,060 - INFO - 127.0.0.1 - - [18/Feb/2025 16:47:38] "GET /users HTTP/1.1" 200 -
+2025-02-18 16:47:38,091 - INFO - 127.0.0.1 - - [18/Feb/2025 16:47:38] "GET /users HTTP/1.1" 200 -
+2025-02-18 16:47:42,090 - INFO - 127.0.0.1 - - [18/Feb/2025 16:47:42] "GET /users HTTP/1.1" 200 -
+2025-02-18 16:47:42,147 - INFO - 127.0.0.1 - - [18/Feb/2025 16:47:42] "GET /users HTTP/1.1" 200 -
+2025-02-18 16:47:47,788 - INFO - 127.0.0.1 - - [18/Feb/2025 16:47:47] "GET /users HTTP/1.1" 200 -
+2025-02-18 16:47:47,801 - INFO - 127.0.0.1 - - [18/Feb/2025 16:47:47] "GET /users HTTP/1.1" 200 -
+2025-02-18 16:49:00,015 - INFO - 127.0.0.1 - - [18/Feb/2025 16:49:00] "OPTIONS /users/3/xp HTTP/1.1" 200 -
+2025-02-18 16:49:00,197 - INFO - XP updated for user Eduardo Rios: New XP 40, Level 2
+2025-02-18 16:49:00,199 - INFO - 127.0.0.1 - - [18/Feb/2025 16:49:00] "PUT /users/3/xp HTTP/1.1" 200 -
+2025-02-18 16:50:04,857 - INFO - 127.0.0.1 - - [18/Feb/2025 16:50:04] "GET /users HTTP/1.1" 200 -
+2025-02-18 16:50:04,865 - INFO - 127.0.0.1 - - [18/Feb/2025 16:50:04] "GET /users HTTP/1.1" 200 -
+2025-02-18 16:53:49,787 - INFO - 127.0.0.1 - - [18/Feb/2025 16:53:49] "GET /users HTTP/1.1" 200 -
+2025-02-18 16:53:49,798 - INFO - 127.0.0.1 - - [18/Feb/2025 16:53:49] "GET /users HTTP/1.1" 200 -
+2025-02-18 16:53:52,196 - INFO - 127.0.0.1 - - [18/Feb/2025 16:53:52] "GET /users HTTP/1.1" 200 -
+2025-02-18 16:53:52,207 - INFO - 127.0.0.1 - - [18/Feb/2025 16:53:52] "GET /users HTTP/1.1" 200 -
+2025-02-18 16:53:55,437 - INFO - 127.0.0.1 - - [18/Feb/2025 16:53:55] "OPTIONS /users/2/xp HTTP/1.1" 200 -
+2025-02-18 16:53:55,458 - INFO - XP updated for user Jefferson Mendoza: New XP 60, Level 1
+2025-02-18 16:53:55,461 - INFO - 127.0.0.1 - - [18/Feb/2025 16:53:55] "PUT /users/2/xp HTTP/1.1" 200 -
+2025-02-18 16:58:18,409 - INFO - 127.0.0.1 - - [18/Feb/2025 16:58:18] "GET /users HTTP/1.1" 200 -
+2025-02-18 16:58:18,449 - INFO - 127.0.0.1 - - [18/Feb/2025 16:58:18] "GET /users HTTP/1.1" 200 -
+2025-02-18 16:58:28,263 - INFO - 127.0.0.1 - - [18/Feb/2025 16:58:28] "GET /users HTTP/1.1" 200 -
+2025-02-18 16:58:28,273 - INFO - 127.0.0.1 - - [18/Feb/2025 16:58:28] "GET /users HTTP/1.1" 200 -
+2025-02-18 17:00:43,690 - INFO - 127.0.0.1 - - [18/Feb/2025 17:00:43] "GET /users HTTP/1.1" 200 -
+2025-02-18 17:00:43,701 - INFO - 127.0.0.1 - - [18/Feb/2025 17:00:43] "GET /users HTTP/1.1" 200 -
+2025-02-18 17:01:01,028 - INFO - 127.0.0.1 - - [18/Feb/2025 17:01:01] "GET /users HTTP/1.1" 200 -
+2025-02-18 17:01:01,036 - INFO - 127.0.0.1 - - [18/Feb/2025 17:01:01] "GET /users HTTP/1.1" 200 -
+2025-02-18 17:01:03,136 - INFO - 127.0.0.1 - - [18/Feb/2025 17:01:03] "GET /users HTTP/1.1" 200 -
+2025-02-18 17:01:03,145 - INFO - 127.0.0.1 - - [18/Feb/2025 17:01:03] "GET /users HTTP/1.1" 200 -
+2025-02-18 17:01:05,764 - INFO - 127.0.0.1 - - [18/Feb/2025 17:01:05] "GET /users HTTP/1.1" 200 -
+2025-02-18 17:01:05,779 - INFO - 127.0.0.1 - - [18/Feb/2025 17:01:05] "GET /users HTTP/1.1" 200 -
+2025-02-18 17:01:12,507 - INFO - 127.0.0.1 - - [18/Feb/2025 17:01:12] "GET /users HTTP/1.1" 200 -
+2025-02-18 17:01:12,516 - INFO - 127.0.0.1 - - [18/Feb/2025 17:01:12] "GET /users HTTP/1.1" 200 -
+2025-02-18 17:01:27,812 - INFO - 127.0.0.1 - - [18/Feb/2025 17:01:27] "OPTIONS /users/2/xp HTTP/1.1" 200 -
+2025-02-18 17:01:28,011 - INFO - XP updated for user Jefferson Mendoza: New XP 0, Level 2
+2025-02-18 17:01:28,020 - INFO - 127.0.0.1 - - [18/Feb/2025 17:01:28] "PUT /users/2/xp HTTP/1.1" 200 -
+2025-02-18 17:01:29,280 - INFO - XP updated for user Jefferson Mendoza: New XP 50, Level 2
+2025-02-18 17:01:29,281 - INFO - 127.0.0.1 - - [18/Feb/2025 17:01:29] "PUT /users/2/xp HTTP/1.1" 200 -
+2025-02-18 17:01:31,829 - INFO - XP updated for user Jefferson Mendoza: New XP 0, Level 3
+2025-02-18 17:01:31,830 - INFO - 127.0.0.1 - - [18/Feb/2025 17:01:31] "PUT /users/2/xp HTTP/1.1" 200 -
+2025-02-18 17:05:23,183 - INFO - 127.0.0.1 - - [18/Feb/2025 17:05:23] "GET /users HTTP/1.1" 200 -
+2025-02-18 17:05:23,194 - INFO - 127.0.0.1 - - [18/Feb/2025 17:05:23] "GET /users HTTP/1.1" 200 -
+2025-02-18 17:05:32,636 - INFO - 127.0.0.1 - - [18/Feb/2025 17:05:32] "GET /users HTTP/1.1" 200 -
+2025-02-18 17:05:32,645 - INFO - 127.0.0.1 - - [18/Feb/2025 17:05:32] "GET /users HTTP/1.1" 200 -
+2025-02-18 17:09:37,797 - INFO - 127.0.0.1 - - [18/Feb/2025 17:09:37] "GET /users HTTP/1.1" 200 -
+2025-02-18 17:09:43,208 - INFO - 127.0.0.1 - - [18/Feb/2025 17:09:43] "GET /users HTTP/1.1" 200 -
+2025-02-18 17:09:43,220 - INFO - 127.0.0.1 - - [18/Feb/2025 17:09:43] "GET /users HTTP/1.1" 200 -
+2025-02-18 17:10:22,601 - INFO - 127.0.0.1 - - [18/Feb/2025 17:10:22] "OPTIONS /users HTTP/1.1" 200 -
+2025-02-18 17:10:22,704 - INFO - New user created: Stiven Smith
+2025-02-18 17:10:22,719 - INFO - 127.0.0.1 - - [18/Feb/2025 17:10:22] "[35m[1mPOST /users HTTP/1.1[0m" 201 -
+2025-02-18 17:15:35,432 - INFO - 127.0.0.1 - - [18/Feb/2025 17:15:35] "GET /users HTTP/1.1" 200 -
+2025-02-18 17:15:35,449 - INFO - 127.0.0.1 - - [18/Feb/2025 17:15:35] "GET /users HTTP/1.1" 200 -
